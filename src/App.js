@@ -1,8 +1,13 @@
+import Header from './components/Header'
+
 function App () {
   return (
-    <div>
+    <>
+    <Header text="Feedbacl UI"/>
+    <div className="container">
       <h1>App</h1>
     </div>
+    </>
   )
 }
 
