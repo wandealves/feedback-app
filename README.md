@@ -30,3 +30,11 @@ npm run dev
 ```
 
 This will run JSON-server on port :5000 and React on port :3000
+
+# feedback
+
+![alt text](https://raw.githubusercontent.com/wandealves/feedback-app/main/assets/feedback.png)
+
+# Publicação
+
+A aplicação foi publicada pelo [Netlify](https://www.netlify.com/) e pode ser acessado por [Aplicação publicada](https://jolly-mcclintock-e720fb.netlify.app/)
