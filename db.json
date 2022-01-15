@@ -16,8 +16,8 @@
       "text": "This is feedback item 3 coming from the backend"
     },
     {
-      "text": "This is Brazil!!!!",
-      "rating": 10,
+      "text": "This is an update item",
+      "rating": 6,
       "id": 4
     }
   ]
